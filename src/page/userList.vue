@@ -182,14 +182,9 @@ export default {
       tableData: [],
       currentRow: null,
       departments: [
-        { label: '财务行政部', value: 'CWXZ' },
         { label: '一部', value: 'DEP1' },
         { label: '二部', value: 'DEP2' },
-        { label: '三部', value: 'DEP3' },
-        { label: '电销部', value: 'DIANXIAO' },
-        { label: '申报部', value: 'SHENBAO' },
-        { label: '江苏公司', value: 'JIANGSU' },
-        { label: '广东公司', value: 'GUANGDONG' }
+        { label: '三部', value: 'DEP3' }
       ],
       offset: 0,
       limit: 10,
